@@ -1,5 +1,7 @@
+
 body {
     font-family: Futura, sans-serif;
+    background-color: rgb(255, 223, 227);
 }
 
 h1 {
@@ -16,7 +18,7 @@ input {
 button {
     margin: 5px;
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: #ff00ee;
     color: white;
     border: none;
     border-radius: 4px;
@@ -24,5 +26,12 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #b30089;
+}
+.card {
+    margin: 10px 0;
+}
+
+button {
+    width: 100%;
 }

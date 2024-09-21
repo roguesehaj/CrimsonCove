@@ -14,8 +14,8 @@ const SubscribePackage = ({ token }) => {
     };
 
     return (
-        <div>
-            <button onClick={subscribePackage}>Subscribe to Package</button>
+        <div className="card p-4">
+            <button className="btn btn-info" onClick={subscribePackage}>Subscribe to Package</button>
         </div>
     );
 };

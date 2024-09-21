@@ -14,8 +14,8 @@ const LogCycle = ({ token }) => {
     };
 
     return (
-        <div>
-            <button onClick={logCycle}>Log Cycle</button>
+        <div className="card p-4">
+            <button className="btn btn-success" onClick={logCycle}>Log Cycle</button>
         </div>
     );
 };
