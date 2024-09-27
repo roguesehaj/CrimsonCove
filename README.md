@@ -17,7 +17,7 @@
   <li>Period Tracking: Add your cycle information and view predicted future dates.</li>
   <li>Wellness Support: Explore personalized wellness plans and care packages.</li>
 </ul>
-<h2>Technology Stack</h2>
+<h2>Tech Stack</h2>
 <ul>
   <li>Frontend: HTML, CSS, JavaScript, React</li>
   <li>Backend: Node.js, Express</li>
